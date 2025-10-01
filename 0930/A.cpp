@@ -47,5 +47,9 @@ signed main()
             la[a[i]] = i, vis[a[i]] = 1, add(i, 1);
     }
     cout << cnt << '\n';
+
+    cout << "Augustus" << "\n";
     return 0;
 }
+
+
